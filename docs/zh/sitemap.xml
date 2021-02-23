@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://shenchingtou.github.io/shikoku-book/zh/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shenchingtou.github.io/shikoku-book/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://shenchingtou.github.io/shikoku-book/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/shikoku-book/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shenchingtou.github.io/shikoku-book/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://shenchingtou.github.io/shikoku-book/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/shikoku-book/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shenchingtou.github.io/shikoku-book/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://shenchingtou.github.io/shikoku-book/zh/tags/"
+                />
+  </url>
+  
+</urlset>

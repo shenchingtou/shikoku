@@ -2,11 +2,8 @@
 title: "About"
 description: "About this diary"
 date: "2016-02-06"
-type: docs
 slug: "/about"
 ---
-
-# About
 
 ## Preamble
 

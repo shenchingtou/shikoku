@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Shikoku Pilgrimage Diary</title>
+    <link>https://shenchingtou.github.io/shikoku-book/categories/</link>
+    <description>Recent content in Categories on Shikoku Pilgrimage Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 Jul 2015 09:03:36 +0900</lastBuildDate>
+    
+	<atom:link href="https://shenchingtou.github.io/shikoku-book/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tokushima</title>
+      <link>https://shenchingtou.github.io/shikoku-book/categories/Tokushima/</link>
+      <pubDate>Thu, 30 Jul 2015 09:03:36 +0900</pubDate>
+      
+      <guid>https://shenchingtou.github.io/shikoku-book/categories/Tokushima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kagawa</title>
+      <link>https://shenchingtou.github.io/shikoku-book/categories/Kagawa/</link>
+      <pubDate>Mon, 27 Jul 2015 09:03:36 +0900</pubDate>
+      
+      <guid>https://shenchingtou.github.io/shikoku-book/categories/Kagawa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ehime</title>
+      <link>https://shenchingtou.github.io/shikoku-book/categories/Ehime/</link>
+      <pubDate>Tue, 21 Jul 2015 09:03:36 +0900</pubDate>
+      
+      <guid>https://shenchingtou.github.io/shikoku-book/categories/Ehime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kochi</title>
+      <link>https://shenchingtou.github.io/shikoku-book/categories/Kochi/</link>
+      <pubDate>Fri, 10 Jul 2015 09:03:36 +0900</pubDate>
+      
+      <guid>https://shenchingtou.github.io/shikoku-book/categories/Kochi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
