@@ -5,6 +5,7 @@ date: '2015-06-27 9:03:36 +0900'
 description: "Shishikui 宍喰 → Kiragawa 吉良川 / Temples: 24 Hotsumisaki-ji (最御崎寺), 25 Shinshō-ji (津照寺), 26 Kongōchō-ji (金剛頂寺)"
 categories: ["Tokushima", "Kochi"]
 tags: ["Tokushima", "Kochi", "nojuku"]
+weight: 7
 ---
 =====
 

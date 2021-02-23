@@ -5,6 +5,7 @@ date: '2015-07-10 9:03:36 +0900'
 description: "Hirata Station (平田) → Michi-no-Eki Mima 道の駅みま / Temples: 39 (Enkō-ji 延光寺), 40 (Kanjizai-ji 観自在寺)"
 categories: ["Kochi", "Ehime"]
 tags: ["Kochi", "Ehime", "nojuku"]
+weight: 20
 ---
 =====
 

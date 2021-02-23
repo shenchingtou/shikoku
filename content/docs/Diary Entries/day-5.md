@@ -5,6 +5,7 @@ date: '2015-06-25 9:03:36 +0900'
 description: "Anan City 阿南市 → Awa-Fukui 阿波福井→ Hiwasa City 日和佐市 / Temples: 23 Yakuō-ji (薬王寺)"
 categories: ["Tokushima"]
 tags: ["Tokushima", "nojuku"]
+weight: 5
 ---
 =====
 

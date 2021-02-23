@@ -5,6 +5,7 @@ date: '2015-07-22 9:03:36 +0900'
 description: "Kanonji City (観音寺市) → Fureai Park-mino (ふれあいパークみの) / Temples: 66 Unpen-ji (雲辺寺), 67 Daikō-ji (大興寺), 71 Iyadani-ji (弥谷寺)"
 categories: ["Kagawa"]
 tags: ["Kagawa", "nojuku"]
+weight: 32
 ---
 =====
 

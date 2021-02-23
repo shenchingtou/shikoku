@@ -33,15 +33,19 @@ enableGitInfo = true
   weight = 3
 
 [menu]
-# [[menu.before]]
-[[menu.after]]
-  name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
-  weight = 10
+[[menu.before]]
+  name = "About"
+  url = "/about"
+  weight = 5
 
+[[menu.before]]
+  name = "Afterword"
+  url = "/afterword"
+  weight = 10
+  
 [[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
+  name = "Personal Blog"
+  url = "https://shenchingtou.github.io/blog/"
   weight = 20
 
 [params]

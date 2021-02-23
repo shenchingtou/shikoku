@@ -5,6 +5,7 @@ date: '2015-07-29 9:03:36 +0900'
 description: "Kamojima Town Kamo-no-Yu Onsen Henro Hut (鴨島町鴨の湯遍路小屋) → Tokushima Otsuru Ryokan (徳島市大鶴旅館) / Temples: 12 Shōsan-ji (焼山寺), 13 Dainichi-ji (大日寺), 14 Jōraku-ji (常楽寺), 15 Awa Kokubun-ji (阿波国分寺), 16 Kannon-ji (観音寺), 17 Ido-ji (井戸寺)"
 categories: ["Tokushima"]
 tags: ["Tokushima"]
+weight: 39
 ---
 =====
 

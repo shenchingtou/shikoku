@@ -5,6 +5,7 @@ date: '2015-07-11 9:03:36 +0900'
 description: "Michi-no-Eki Mima 道の駅みま → Matsuyama City 松山市 / Temples: 41 (Ryūkōji 竜光寺), 42 (Butsumoku-ji 佛木寺), 43, Meiseki-ji 明石寺) 51 (Ishite-ji 石手寺)"
 categories: ["Ehime"]
 tags: ["Ehime", "tsuyado"]
+weight: 21
 ---
 =====
 

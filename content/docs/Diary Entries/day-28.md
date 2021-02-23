@@ -5,6 +5,7 @@ date: '2015-07-18 9:03:36 +0900'
 description: "Iyo-Miyoshi (伊予三芳) → Imabari City (今治市) / Temples: 60 Yokomine-ji (横峰寺)"
 categories: ["Ehime"]
 tags: ["Ehime"]
+weight: 28
 ---
 =====
 

@@ -5,6 +5,7 @@ date: '2015-06-24 9:03:36 +0900'
 description: "Anan City –> Katsuura –> Aratano –> Anan City / Temples: 20 (Kakurin-ji 鶴林寺), 21 (Tairyuu-ji 太龍寺), 22 (Byoudou-ji 平等寺)"
 categories: ["Tokushima"]
 tags: ["Tokushima"]
+weight: 4 
 ---
 =====
 

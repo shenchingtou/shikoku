@@ -2,6 +2,7 @@
 title: "Shikoku Pilgrimage Packing List"
 description: "A packing list guide for walking henro / aruki henro on the Shikoku Pilgrimage. Info for backpackers on a budget trip, driving henro, and Buddhist worship gear."
 date: "2019-03-04"
+weight: 4
 ---
 
 This is a packing list mostly for people who intend to walk the Shikoku Pilgrimage, though it can be adapted by backpackers who want to camp through the Japanese countryside. People who are driving or taking the bus will likely not have as many weight constraints and can pack more clothes. I have tried to outline the guiding principles for a Japan / long-distance walking packing list, so that you can use them to work through the gear that is suggested and adapt them as necessary based on the seasons. My three main principles for long-distance walking and backpacking are as follows:

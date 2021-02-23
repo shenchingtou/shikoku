@@ -3,6 +3,7 @@ title: "Afterword"
 description: "Reflections after walking Shikoku"
 date: "2016-02-20"
 slug: "/afterword"
+weight: 3
 ---
 
 *If you’ve gotten this far, I thank you for reading my posts, whether one or all. Since I limited myself to 2000 words for most posts, there are many thoughts left unsaid, significances left unelaborated. I will address some of them below.*

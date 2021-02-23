@@ -5,6 +5,7 @@ date: '2015-07-13 9:03:36 +0900'
 description: "Matsuyama City (松山市)"
 categories: ["Ehime"]
 tags: ["Ehime"]
+weight: 23
 ---
 =====
 

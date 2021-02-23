@@ -5,6 +5,7 @@ date: '2015-07-17 9:03:36 +0900'
 description: "Imabari City (今治市) →  Iyo-Miyoshi (伊予三芳) / Temples: 64 Maegami-ji (前神寺), 63 Kichijō-ji (吉祥寺), 62 Hōju-ji (宝寿寺), 61 Kōon-ji (香園寺)"
 categories: ["Ehime"]
 tags: ["Ehime"]
+weight: 27
 ---
 =====
 

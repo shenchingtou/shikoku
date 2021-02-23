@@ -5,6 +5,7 @@ date: '2015-06-30 9:03:36 +0900'
 description: "Kagami 香我美 → Nankoku City 南国市 → Kochi City 高知市 / Temples: 28 (Dainichi-ji 大日寺), 29 (Tosa Kokubun-ji 土佐国分寺), 30 (Zenrakuji 善楽寺)"
 categories: ["Kochi"]
 tags: ["Kochi"]
+weight: 10
 ---
 =====
 

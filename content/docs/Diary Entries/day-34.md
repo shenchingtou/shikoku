@@ -5,6 +5,7 @@ date: '2015-07-24 9:03:36 +0900'
 description: "Utazu (瀬戸大橋四国健康村) →Goshikidai Plateau Henro Hut (五色台遍路小屋) / Temples: 78 Gōshō-ji (郷照寺), 79 Tennō-ji (天皇寺), 80 Sanuki Kokubun-ji (讃岐国分寺), 81 Shiromine-ji (白峯寺), 82 Negoro-ji (根香寺)"
 categories: ["Kagawa"]
 tags: ["Kagawa", "nojuku"]
+weight: 34
 ---
 =====
 

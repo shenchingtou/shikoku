@@ -5,6 +5,7 @@ date: '2015-07-07 9:03:36 +0900'
 description: "Kaina Station → Michi-no-Eki Bios Oogata (道の駅ビオス おおがた)"
 categories: ["Kochi"]
 tags: ["Kochi", "nojuku"]
+weight: 17
 ---
 =====
 

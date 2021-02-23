@@ -5,6 +5,7 @@ date: '2015-06-26 9:03:36 +0900'
 description: "Hiwasa City 日和佐市 → Shishikui 宍喰"
 categories: ["Tokushima"]
 tags: ["Tokushima"]
+weight: 6
 ---
 =====
 

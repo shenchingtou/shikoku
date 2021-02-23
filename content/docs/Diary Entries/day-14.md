@@ -5,6 +5,7 @@ date: '2015-07-04 9:03:36 +0900'
 description: "Susaki Henro Hut 須崎遍路小屋 → Agiri Kubokawa Michi-no-Eki アギリ窪川道の駅"
 categories: ["Kochi"]
 tags: ["Kochi", "nojuku"]
+weight: 14
 ---
 =====
 

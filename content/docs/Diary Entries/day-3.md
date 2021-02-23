@@ -5,6 +5,7 @@ date: '2015-06-23 9:03:36 +0900'
 description: "Tokushima City 徳島市 → Anan City 阿南市 / Temples: 18 Onzan-ji (恩山寺), 19 Tatsue-ji (立江寺)"
 categories: ["Tokushima"]
 tags: ["Tokushima"]
+weight: 3
 ---
 =====
 

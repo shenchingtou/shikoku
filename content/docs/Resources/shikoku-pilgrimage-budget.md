@@ -2,6 +2,7 @@
 title: "My Shikoku Pilgrimage Budget Sheet"
 description: "An itemized cost breakdown for my Shikoku Pilgrimage in 2015 that includes transit, accommodations, food, and temple visits. The trip was completed with a budget of about US$1500."
 date: "2019-02-22"
+weight: 5
 ---
 
 Japan is often an expensive place to travel, but that is often due to lack of familiarity with accommodation and dining options. The same principle is true for the Shikoku Pilgrimage. This post breaks down the cost of my 40-day walking trip into daily expenses. I explain section by section why the costs were that way so that you can see what options are available to you. This is a shoestring budget, so a more accurate budget should be around US$3000 for the trip itself (not including airfare).

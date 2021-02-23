@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shikoku Pilgrimage Diary</title>
+    <link>https://shenchingtou.github.io/shikoku/docs/Resources/</link>
+    <description>Recent content on Shikoku Pilgrimage Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shenchingtou.github.io/shikoku/docs/Resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started and FAQ</title>
+      <link>https://shenchingtou.github.io/shikoku/docs/Resources/getting-started/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shenchingtou.github.io/shikoku/docs/Resources/getting-started/</guid>
+      <description>Increasingly, the Shikoku Pilgrimage has become a longer-term travel experience for backpackers in Japan, Buddhist pilgrims, and cultural and history enthusiasts. The Shikoku Pilgrimage is a roughly 1200-kilometre circle around the whole island, covering 88 temples and 20 bangai (side) temples. Below are, I have compiled frequently asked questions from friends and my Shikoku Pilgrimage diary readers who are considering visiting the temples, or undertaking the full journey.
+For people who intend to walk the Shikoku Pilgrimage, you can go to my cost considerations and packing list.</description>
+    </item>
+    
+    <item>
+      <title>Shikoku Pilgrimage Cost Considerations</title>
+      <link>https://shenchingtou.github.io/shikoku/docs/Resources/shikoku-pilgrimage-cost/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shenchingtou.github.io/shikoku/docs/Resources/shikoku-pilgrimage-cost/</guid>
+      <description>Budget travelling is possible in Japan, and Shikoku is no exception. In fact, it’s probably one of the most affordable places to go backpacking in the Japanese countryside if have 2-6 weeks. This post covers the cost considerations for the Shikoku Pilgrimage, including accommodation, transportation, wifi, food, temple visits, etc. The types of costs are broken down to help you understand the factors you should consider for your needs
+Overview of Sections  Accommodation / Lodgings Transportation Wifi Food Temple Visits Essential Walking Henro Gear Pilgrimage-Related Gear Additional Costs   1.</description>
+    </item>
+    
+    <item>
+      <title>Shikoku Pilgrimage Packing List</title>
+      <link>https://shenchingtou.github.io/shikoku/docs/Resources/shikoku-pilgrimage-packing-list/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shenchingtou.github.io/shikoku/docs/Resources/shikoku-pilgrimage-packing-list/</guid>
+      <description>This is a packing list mostly for people who intend to walk the Shikoku Pilgrimage, though it can be adapted by backpackers who want to camp through the Japanese countryside. People who are driving or taking the bus will likely not have as many weight constraints and can pack more clothes. I have tried to outline the guiding principles for a Japan / long-distance walking packing list, so that you can use them to work through the gear that is suggested and adapt them as necessary based on the seasons.</description>
+    </item>
+    
+    <item>
+      <title>Shikoku Henro Budget &amp; Free Lodging Guide (English &amp; Japanese)</title>
+      <link>https://shenchingtou.github.io/shikoku/docs/Resources/shikoku-lodging-list/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shenchingtou.github.io/shikoku/docs/Resources/shikoku-lodging-list/</guid>
+      <description>This post is an update from the Henro free/budget lodging list that I had compiled back in 2015 because information at the time was hard to find online, but more readily available after I started meeting other henro on the road. The henro whom I exchanged lists with spoke Japanese, so the information sometimes differed from the English ones, which is why I compiled them. This updated accommodations and lodging list is not necessarily exhaustive, but I have added more information based on information received from pilgrims after 2015.</description>
+    </item>
+    
+    <item>
+      <title>My Shikoku Pilgrimage Budget Sheet</title>
+      <link>https://shenchingtou.github.io/shikoku/docs/Resources/shikoku-pilgrimage-budget/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shenchingtou.github.io/shikoku/docs/Resources/shikoku-pilgrimage-budget/</guid>
+      <description>Japan is often an expensive place to travel, but that is often due to lack of familiarity with accommodation and dining options. The same principle is true for the Shikoku Pilgrimage. This post breaks down the cost of my 40-day walking trip into daily expenses. I explain section by section why the costs were that way so that you can see what options are available to you. This is a shoestring budget, so a more accurate budget should be around US$3000 for the trip itself (not including airfare).</description>
+    </item>
+    
+    <item>
+      <title>A Guide to Mount Ishizuchi</title>
+      <link>https://shenchingtou.github.io/shikoku/docs/Resources/mt-ishizuchi-transport/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shenchingtou.github.io/shikoku/docs/Resources/mt-ishizuchi-transport/</guid>
+      <description>This is a comprehensive guide for people who would like to climb Mount Ishizuchi, the tallest mountain in Western Japan. The guide covers the two main transportation routes to the trailheads from Matsuyama and JR Iyo-Saijo Station respectively. Both routes have a day-hiking, overnight camping, and ryokan lodging options. All Shikoku Pass or JR Pass users can consider taking the train to Iyo-Saijo to make this a day activity.
+This guide also includes hiking route time estimates, some activities or highlights of notes, and lodging options.</description>
+    </item>
+    
+  </channel>
+</rss>

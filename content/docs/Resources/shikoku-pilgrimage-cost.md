@@ -2,6 +2,7 @@
 title: "Shikoku Pilgrimage Cost Considerations"
 description: "Breaking down the cost considerations for the Shikoku Pilgrimage, and more generally for travelling the Japanese countryside. Includes accommodation, food, transportation, wifi, and pilgrimage-related tips."
 date: "2019-02-27"
+Weight: 3
 ---
 
 Budget travelling is possible in Japan, and Shikoku is no exception. In fact, it’s probably one of the most affordable places to go backpacking in the Japanese countryside if have 2-6 weeks. This post covers the cost considerations for the Shikoku Pilgrimage, including accommodation, transportation, wifi, food, temple visits, etc. The types of costs are broken down to help you understand the factors you should consider for your needs

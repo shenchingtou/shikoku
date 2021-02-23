@@ -5,6 +5,7 @@ date: '2015-07-09 9:03:36 +0900'
 description: "Shimonokae 下ノ加江 → Hirata Station (平田) / Temples: 38 (Kongōfuku-ji 金剛福寺)"
 categories: ["Kochi"]
 tags: ["Kochi", "nojuku"]
+weight: 19
 ---
 =====
 

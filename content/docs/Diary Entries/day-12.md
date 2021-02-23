@@ -5,6 +5,7 @@ date: '2015-07-02 9:03:36 +0900'
 description: "Kochi City (高知市) / Temples: 33 Sekkei-ji (雪蹊寺), 34 Tanema–ji (種間寺), 35 Kiyotaki-ji (清滝寺)"
 categories: ["Kochi"]
 tags: ["Kochi"]
+weight: 12
 ---
 =====
 

@@ -5,6 +5,7 @@ date: '2015-07-26 9:03:36 +0900'
 description: "Furu-Takamatsu (古高松) → Shido 志度 →Furu-Takamatsu (古高松) / Temples: 84 (Yashima-ji 屋島寺), 85 (Yakuri-ji 八栗寺), 86 (Shido-ji 志度寺)"
 categories: ["Kagawa"]
 tags: ["Kagawa"]
+weight: 36
 ---
 =====
 

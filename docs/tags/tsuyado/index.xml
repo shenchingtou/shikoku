@@ -2,20 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tsuyado on Shikoku Pilgrimage Diary</title>
-    <link>https://shenchingtou.github.io/shikoku-book/tags/tsuyado/</link>
+    <link>https://shenchingtou.github.io/shikoku/tags/tsuyado/</link>
     <description>Recent content in tsuyado on Shikoku Pilgrimage Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 11 Jul 2015 09:03:36 +0900</lastBuildDate>
     
-	<atom:link href="https://shenchingtou.github.io/shikoku-book/tags/tsuyado/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenchingtou.github.io/shikoku/tags/tsuyado/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Day 8 - June 28</title>
+      <link>https://shenchingtou.github.io/shikoku/docs/Diary-Entries/day-8/</link>
+      <pubDate>Sun, 28 Jun 2015 09:03:36 +0900</pubDate>
+      
+      <guid>https://shenchingtou.github.io/shikoku/docs/Diary-Entries/day-8/</guid>
+      <description>=====
+Kiragawa 吉良川 → Kōnomine-ji 神峰寺
+Temples: 27 Kōnomine-ji (神峰寺)
+Weather: Sunny
+Travel Method: Walking
+Distance: 25 km
+=====
+My cell is going to die. That’s my first thought when I wake with it squashed under my shoulder, overheated and drained of the full battery it had last night. I can feel the film of sweat on my face, even though I woke up several times from the breeze that carried increasingly cool air.</description>
+    </item>
+    
+    <item>
       <title>Day 21 - July 11</title>
-      <link>https://shenchingtou.github.io/shikoku-book/docs/Diary-Entries/day-21/</link>
+      <link>https://shenchingtou.github.io/shikoku/docs/Diary-Entries/day-21/</link>
       <pubDate>Sat, 11 Jul 2015 09:03:36 +0900</pubDate>
       
-      <guid>https://shenchingtou.github.io/shikoku-book/docs/Diary-Entries/day-21/</guid>
+      <guid>https://shenchingtou.github.io/shikoku/docs/Diary-Entries/day-21/</guid>
       <description>=====
 Michi-no-Eki Mima 道の駅みま → Matsuyama City 松山市
 Temples: 41 (Ryūkōji 竜光寺), 42 (Butsumoku-ji 佛木寺), 43, Meiseki-ji 明石寺) 51 (Ishite-ji 石手寺)
@@ -25,22 +41,6 @@ Distance: 23.8 (+75.3) km
 =====
 A fellow henro once told me, ‘When far from the temple, wake early; when close, rise later.’ Sleep is precious everywhere.
 Still, I rise at 5:30 today because I woke naturally and I want breakfast. The Lawson close by has seats, which means I get to enjoy a dignified meal, seated, with my food laid out on the counter.</description>
-    </item>
-    
-    <item>
-      <title>Day 8 - June 28</title>
-      <link>https://shenchingtou.github.io/shikoku-book/docs/Diary-Entries/day-8/</link>
-      <pubDate>Sun, 28 Jun 2015 09:03:36 +0900</pubDate>
-      
-      <guid>https://shenchingtou.github.io/shikoku-book/docs/Diary-Entries/day-8/</guid>
-      <description>=====
-Kiragawa 吉良川 → Kōnomine-ji 神峰寺
-Temples: 27 Kōnomine-ji (神峰寺)
-Weather: Sunny
-Travel Method: Walking
-Distance: 25 km
-=====
-My cell is going to die. That’s my first thought when I wake with it squashed under my shoulder, overheated and drained of the full battery it had last night. I can feel the film of sweat on my face, even though I woke up several times from the breeze that carried increasingly cool air.</description>
     </item>
     
   </channel>

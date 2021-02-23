@@ -2,6 +2,7 @@
 title: "Shikoku Henro Budget & Free Lodging Guide (English & Japanese)"
 description: "An updated guide for Shikoku Pilgrimage budget accommodation for walking and nojuku henro. Has photos, links to additional sources, travel etiquette, etc."
 date: "2019-03-07"
+weight: 5
 ---
 
 This post is an update from the [Henro free/budget lodging list](https://thecupandtheroad.com/henro-budget-lodging/) that I had compiled back in 2015 because information at the time was hard to find online, but more readily available after I started meeting other henro on the road. The henro whom I exchanged lists with spoke Japanese, so the information sometimes differed from the English ones, which is why I compiled them. This updated accommodations and lodging list is not necessarily exhaustive, but I have added more information based on information received from pilgrims after 2015\. I also have an upcoming FAQ for notes I’ve included for solo female travellers, based on the considerations I usually factor in for my trips.

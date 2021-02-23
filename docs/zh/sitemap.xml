@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shenchingtou.github.io/shikoku-book/zh/categories/</loc>
+    <loc>https://shenchingtou.github.io/shikoku/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shenchingtou.github.io/shikoku-book/categories/"
+                href="https://shenchingtou.github.io/shikoku/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://shenchingtou.github.io/shikoku-book/zh/categories/"
+                href="https://shenchingtou.github.io/shikoku/zh/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://shenchingtou.github.io/shikoku-book/zh/</loc>
+    <loc>https://shenchingtou.github.io/shikoku/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shenchingtou.github.io/shikoku-book/"
+                href="https://shenchingtou.github.io/shikoku/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://shenchingtou.github.io/shikoku-book/zh/"
+                href="https://shenchingtou.github.io/shikoku/zh/"
                 />
   </url>
   
   <url>
-    <loc>https://shenchingtou.github.io/shikoku-book/zh/tags/</loc>
+    <loc>https://shenchingtou.github.io/shikoku/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shenchingtou.github.io/shikoku-book/tags/"
+                href="https://shenchingtou.github.io/shikoku/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://shenchingtou.github.io/shikoku-book/zh/tags/"
+                href="https://shenchingtou.github.io/shikoku/zh/tags/"
                 />
   </url>
   

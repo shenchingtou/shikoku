@@ -2,6 +2,7 @@
 title: "Getting Started and FAQ"
 description: "Overview of the Shikoku Pilgrimage and how I approached it as a solo female traveller"
 date: "2019-03-25"
+weight: 1
 ---
 
 Increasingly, the Shikoku Pilgrimage has become a longer-term travel experience for backpackers in Japan, Buddhist pilgrims, and cultural and history enthusiasts. The Shikoku Pilgrimage is a roughly 1200-kilometre circle around the whole island, covering 88 temples and 20 bangai (side) temples. Below are, I have compiled frequently asked questions from friends and my [Shikoku Pilgrimage diary](https://thecupandtheroad.com/shikoku-pilgrimage-diary/) readers who are considering visiting the temples, or undertaking the full journey.

@@ -5,6 +5,7 @@ date: '2015-07-06 9:03:36 +0900'
 description: "Somewhere in Takaoka-gun (高岡郡)"
 categories: ["Kochi"]
 tags: ["Kochi"]
+weight: 16
 ---
 =====
 

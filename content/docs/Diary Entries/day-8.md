@@ -5,6 +5,7 @@ date: '2015-06-28 9:03:36 +0900'
 description: "Kiragawa 吉良川 → Kōnomine-ji 神峰寺 / Temples: 27 Kōnomine-ji (神峰寺)"
 categories: ["Kochi"]
 tags: ["Kochi", "tsuyado"]
+weight: 8
 ---
 =====
 

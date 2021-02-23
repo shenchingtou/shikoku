@@ -6,6 +6,7 @@ description: "Fureai Park-mino (ふれあいパークみの) → Utazu (瀬戸�
 Temples: 72 (Mandara-ji 曼荼羅寺), 73 (Shusshakaji 出釈迦寺), 74 Kōyama-ji (甲山寺), 75 (Zentsū-ji 善通寺), 76 (Konzō-ji 金倉寺), 77 (Dōryū-ji 道隆寺)"
 categories: ["Kagawa"]
 tags: ["Kagawa"]
+weight: 33
 ---
 =====
 

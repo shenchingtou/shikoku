@@ -5,6 +5,7 @@ date: '2015-07-16 9:03:36 +0900'
 description: "Imabari City (今治市) / Temples: 57 Eifuku-ji (栄福寺), 58 Senyū-ji (仙遊寺), 59 Iyo Kokubun-ji (伊予国分寺)"
 categories: ["Ehime"]
 tags: ["Ehime"]
+weight: 26
 ---
 =====
 

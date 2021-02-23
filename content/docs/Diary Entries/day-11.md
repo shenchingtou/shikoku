@@ -5,6 +5,7 @@ date: '2015-07-01 9:03:36 +0900'
 description: "Kochi City (高知市) / Temples: 31 Chikurin-ji (竹林寺), 32 Zenjibu-ji (禅師峰寺)"
 categories: ["Kochi"]
 tags: ["Kochi"]
+weight: 11
 ---
 =====
 

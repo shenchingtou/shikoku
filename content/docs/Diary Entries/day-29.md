@@ -5,6 +5,7 @@ date: '2015-07-19 9:03:36 +0900'
 description: "Imabari City (今治市) → Ishizuchiyama (石鎚山) → Iyo-Doi (伊予土居)"
 categories: ["Ehime"]
 tags: ["Ehime", "nojuku"]
+weight: 29
 ---
 =====
 

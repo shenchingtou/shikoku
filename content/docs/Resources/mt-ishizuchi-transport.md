@@ -4,7 +4,11 @@ description: "Transit information on how to get to and from Mount Ishizuchi. Rou
 date: "2019-03-19"
 ---
 
-This* is a comprehensive guide for people who would like to climb Mount Ishizuchi, the tallest mountain in Western Japan. The guide covers the two main transportation routes to the trailheads from Matsuyama and JR Iyo-Saijo Station respectively. Both routes have a day-hiking, overnight camping, and ryokan lodging options. All Shikoku Pass or JR Pass users can consider taking the train to Iyo-Saijo to make this a day activity. This guide also includes hiking route time estimates, some activities or highlights of notes, and lodging options.*
+_This is a comprehensive guide for people who would like to climb Mount Ishizuchi, the tallest mountain in Western Japan. The guide covers the two main transportation routes to the trailheads from Matsuyama and JR Iyo-Saijo Station respectively. Both routes have a day-hiking, overnight camping, and ryokan lodging options. All Shikoku Pass or JR Pass users can consider taking the train to Iyo-Saijo to make this a day activity._
+
+_This guide also includes hiking route time estimates, some activities or highlights of notes, and lodging options._
+
+_Please note that this guide was migrated from an old blog and still needs some formatting updates. Please be patient (or help if you know how to use markdown). Thanks!_
 
 ## Information Overview of Mount Ishizuchi
 
@@ -174,8 +178,7 @@ Prefectural Hall 6:55 8:35 10:35 12:35 15:35 17:25 18:45 19:35 20:15   大街道
 Okaido 6:58 8:38 10:38 12:38 15:38 17:28 18:48 19:38 20:18   33 Stops – – – – – – – – –   久万中学校前
 Transfer to Omogo Bus 7:58 9:38 11:38 13:38 16:38 18:28 19:48 20:38 21:18   西本医院前 7:58 9:38 11:38 13:38 16:38 18:28 19:48 20:38 21:18   久万高原 8:00 9:40 11:40 13:40 16:40 18:30 19:50 20:40 21:20   Source:[ JR Bus Time Table for the Matsuyama – Kuma Kogen route (Japanese)](http://www.jr-shikoku.co.jp/bus/businfo/rosen_matuyama/matuyama-otide.htm)    
 
-##### **Buses from Kuma Kogen Town to Matsuyama
-**
+##### **Buses from Kuma Kogen Town to Matsuyama**
 
                 Daily Weekdays Only Weekends & Holidays Only Weekdays Only Daily Daily Daily Daily Weekdays Only   久万高原
 Kuma Kogen 6:30 8:20 9:00 10:10 12:00 14:00 17:10 18:40 20:00   久万中学校前
@@ -208,8 +211,7 @@ Express trains are comfortable, scenic, the best choice for travellers with an [
 
 ---
 
-## **From JR Iyo-Saijo Station to Ishizuchi’s base
-**
+## **From JR Iyo-Saijo Station to Ishizuchi’s base**
 
 After you arrive at JR Iyo-Saijo Station, you will need to take the bus to Mount Ishizuchi. The bus costs ¥1000 one-way and you can pay in cash when you get in.
 
@@ -324,9 +326,9 @@ If you are more flexible with your route, then a better way would be to walk Tem
 
 ---
 
-# Additional Information
+# **Additional Information**
 
-## **Accommodations Around Ishizuchi**
+## Accommodations Around Ishizuchi
 
  ![mountain office at ishizuchi](https://i2.wp.com/foundinshikoku.com/wp-content/uploads/2019/03/Mount-Ishizuchi-Web-4032.jpg?resize=860%252C571&ssl=1)There is a mountain lodge beside this office at the peak. 
 
@@ -334,7 +336,7 @@ You can refer to the [ryokans listed on this map](http://henro88map.com/pdf/ishi
 
 ---
 
-## **Climbing Etiquette in Japan**
+## Climbing Etiquette in Japan
 
 Japan is a safe place to climb mountains and many routes are cared for by local communities. For this reason, this is a gentle reminder to go by the principle of taking everything off the mountain with you, so that you leave it in the same beautiful state you found it. Below are a few additional cultural notes to help you on your hike on Ishizuchi, as well as other mountains on Shikoku.
 

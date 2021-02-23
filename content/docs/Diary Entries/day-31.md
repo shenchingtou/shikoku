@@ -5,6 +5,7 @@ date: '2015-07-21 9:03:36 +0900'
 description: "Shikokuchuo City (四国中央市) –> Kanonji City(観音寺市) / Temples: 68 Jinne-in (神恵院), 69 Kannon-ji (観音寺), 70 Motoyama-ji (本山寺)"
 categories: ["Ehime", "Kagawa"]
 tags: ["Ehime", "Kagawa"]
+weight: 31
 ---
 =====
 

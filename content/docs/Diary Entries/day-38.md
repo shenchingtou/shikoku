@@ -6,6 +6,7 @@ description: "Tokushima Otsuru Ryokan (徳島市大鶴旅館) → Kamojima Town
 Temples: 4 Dainichi-ji (大日寺), 5 Jizō-ji (地蔵寺), 6 Anraku-ji (安楽寺), 7 Jūraku-ji (十楽寺), 8 Kumadani-ji (熊谷寺), 9 Hōrin-ji (法輪寺), 11 Fujii-dera (藤井寺)"
 categories: ["Tokushima"]
 tags: ["Tokushima"]
+weight: 38
 ---
 =====
 

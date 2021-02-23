@@ -5,6 +5,7 @@ date: '2015-06-19 9:03:36 +0900'
 description: "Bando (板東町) –> Itano (板野町) / Temples: 1 (Ryozen-ji 霊山寺), 2 (Gokuraku-ji 極楽寺), 3 (Konsen-ji 金泉寺)"
 categories: ["Tokushima"]
 tags: ["Tokushima"]
+weight: 2
 ---
 =====
 

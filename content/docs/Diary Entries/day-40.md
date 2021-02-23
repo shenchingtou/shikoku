@@ -5,6 +5,7 @@ date: '2015-07-30 9:03:36 +0900'
 description: "Tokushima Otsuru Ryokan (徳島市大鶴旅館) → Ono Noen 小野農園 / Temples: 10 Kirihata-ji (切幡寺)"
 categories: ["Tokushima"]
 tags: ["Tokushima"]
+weight: 40
 ---
 =====
 

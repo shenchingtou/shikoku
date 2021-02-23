@@ -5,6 +5,7 @@ date: '2015-07-14 9:03:36 +0900'
 description: "Matsuyama City (松山市) → Kuma Kogen (久万高原) → Iyowake (伊予和気) / Temples: 44 Daihō-ji (大宝寺), 45 Iwaya-ji (岩屋寺)"
 categories: ["Ehime"]
 tags: ["Ehime"]
+weight: 24
 ---
 =====
 

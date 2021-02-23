@@ -5,6 +5,7 @@ date: '2015-07-08 9:03:36 +0900'
 description: "Michi-no-Eki Bios Oogata (道の駅ビオス おおがた) → Shimonokae (下ノ加江)"
 categories: ["Kochi"]
 tags: ["Kochi"]
+weight: 18
 ---
 =====
 

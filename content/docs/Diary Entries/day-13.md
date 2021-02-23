@@ -5,6 +5,7 @@ date: '2015-07-03 9:03:36 +0900'
 description: "Kochi City (高知市) → Susaki Henro Hut (須崎遍路小屋) / Temples: 36 Shōryū-ji (青竜寺)"
 categories: ["Kochi"]
 tags: ["Kochi", "nojuku"]
+weight: 13
 ---
 =====
 

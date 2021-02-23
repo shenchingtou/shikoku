@@ -5,6 +5,7 @@ date: '2015-06-29 9:03:36 +0900'
 description: "Kōnomine-ji 神峰寺 → Ioki 伊尾木 → Aki 安芸 → Akano 赤野 → Yasu 夜須 → Kagami 香我美"
 categories: ["Kochi"]
 tags: ["Kochi", "nojuku"]
+weight: 9
 ---
 =====
 

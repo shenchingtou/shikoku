@@ -5,6 +5,7 @@ date: '2015-07-25 9:03:36 +0900'
 description: "Goshikidai Plateau Henro Hut (五色台遍路小屋) → Furu-Takamatsu (古高松) / Temples: 83 (Ichinomiya-ji 一宮寺)"
 categories: ["Kagawa"]
 tags: ["Kagawa"]
+weight: 35
 ---
 =====
 

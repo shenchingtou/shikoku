@@ -6,6 +6,7 @@ description: "Iyo-Doi (伊予土居) → Shikokuchuo City (四国中央市)
 Temples: 65 Sankaku-ji (三角寺)"
 categories: ["Ehime"]
 tags: ["Ehime"]
+weight: 30
 ---
 =====
 

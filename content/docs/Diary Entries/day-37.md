@@ -5,6 +5,7 @@ date: '2015-07-27 9:03:36 +0900'
 description: "Furu-Takamatsu (古高松) → Zoda Station (造田駅) → Tokushima Otsuru Ryokan (徳島市大鶴旅館) / Temples: 87 Nagao-ji  (長尾寺), 88 Ōkubo-ji (大窪寺)"
 categories: ["Kagawa", "Tokushima"]
 tags: ["Kagawa", "Tokushima"]
+weight: 37
 ---
 =====
 

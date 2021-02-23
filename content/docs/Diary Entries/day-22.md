@@ -6,6 +6,7 @@ description: "Matsuyama City (松山市) /
 Temples: 50 Hanta-ji (繁多寺), 49 Jōdo-ji (浄土寺), 48 Sairin-ji (西林寺), 47 Yasaka-ji (八坂寺), 46 Jōruri-ji (浄瑠璃寺)"
 categories: ["Ehime"]
 tags: ["Ehime"]
+weight: 22
 ---
 =====
 

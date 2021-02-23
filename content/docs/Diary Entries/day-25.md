@@ -5,6 +5,7 @@ date: '2015-07-15 9:03:36 +0900'
 description: "Iyo-wake (伊予和気) → Imabari City (今治市) / Temples: 52 Taisan-ji (太山寺), 53 Enmyō-ji (圓明寺), 54 Enmei-ji (延命寺), 55 Nankōbō (南光坊), 56 Taisan-ji (泰山寺)"
 categories: ["Ehime"]
 tags: ["Ehime"]
+weight: 25
 ---
 =====
 

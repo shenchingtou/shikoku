@@ -1,14 +1,14 @@
 {
   "name": "Shikoku Pilgrimage Diary",
   "short_name": "Shikoku Pilgrimage Diary",
-  "start_url": "/shikoku-book/",
-  "scope": "/shikoku-book/",
+  "start_url": "/shikoku/",
+  "scope": "/shikoku/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/shikoku-book/favicon.svg",
+      "src": "/shikoku/favicon.svg",
       "sizes": "512x512"
     }
   ]

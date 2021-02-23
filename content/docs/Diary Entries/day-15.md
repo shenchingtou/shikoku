@@ -5,6 +5,7 @@ date: '2015-07-05 9:03:36 +0900'
 description: "Agiri Kubokawa Michi-no-Eki アギリ窪川道の駅 –> Kubokawa 窪川 / Temples: 37 (Iwamoto-ji 岩本寺)"
 categories: ["Kochi"]
 tags: ["Kochi", "nojuku"]
+weight: 15
 ---
 =====
 
