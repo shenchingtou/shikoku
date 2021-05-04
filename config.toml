@@ -44,7 +44,7 @@ enableGitInfo = true
   weight = 10
 
 [[menu.before]]
-  name = "Afterword"
+  name = "Mount Koya"
   url = "/mt-koya"
   weight = 15
 
