@@ -1,0 +1,113 @@
+---
+title: "Afterword - Mount Koya"
+description: "Notes from completing the pilgrimage at Mount Koya"
+date: "2015-10-15"
+slug: "/mt-koya"
+weight: 4
+---
+
+> _There is an old saying that upon entering the sea of Buddhist truth, even the smallest fish is instantly transformed into a great dragon. Monastic disciples upon entering the Dragon Gate at Eiheiji, one of the two Soto Zen headquarters in Japan, are transformed into dragons, and when he finishes training and re-enters the world, he goes back to being a fish._
+> 
+> – Kaoru Nonomura (_Eat Sleep Sit_ p. 27)
+
+It’s October 15, and I’ve left the swimming world of fish for a day to wrap up my Shikoku pilgrimage at [Koya-san (Mount Koya)](https://en.wikipedia.org/wiki/Mount_K%C5%8Dya), the headquarters of the Shingon sect of Buddhism. It’s been over two months since I finished the Shikoku pilgrimage (or Ohenro) and fell back into ‘life’, but I do feel the change. Perhaps I’m a small dragon, like the one in Disney’s Mulan.
+
+I wake to the same pitch black night I went to sleep in a few hours ago. It’s 5:00am and I need to catch the first train to Kudoyama, where the path to Koya-san begins from [Jison-in](https://www.google.co.jp/maps/place/Jison-in/@34.2951923,135.5499034,15z/data=!4m2!3m1!1s0x0:0x700f775a5390d9a0?sa=X&ved=0ahUKEwis3-73spDNAhUBuJQKHReLB6MQ_BIIbDAL). This 22km pilgrimage path is the historical route that Kukai, the founder of the Shingon Sect of Buddhism, routinely walked to visit his mother at Jison-in since Koya-san at the time was closed to women.
+
+Having finished my kechigan, visiting all the 88 temples, the last thing to do is to thank the founder to give thanks for a safe passage. I had put it off in August, thinking I didn’t have enough time to enjoy the place. Ironically, I have even less time now. I’d taken an overnight bus from Tokyo to Osaka and arrived yesterday at 7am, but too late to start my hike up. Today, I need to finish the hike and then head back in another overnight bus to Tokyo, and then catch a flight out to Hong Kong. The entire arrangement seems unceremonious, and yet is entirely in line with my character. If I don’t do it now, I will not be able to do so again until next year’s Spring.
+
+I have breakfast in the downstairs area of my Airbnb house, a pristinely kept building converted into a private coffee house downstairs. My host left me a massive breakfast of bread, tea, fruits, yogurt, and even onigiri. Such breakfast spreads always lull me into a leisurely pace as I put a bit of everything on my plate and fetch a drink too. By the time I sit down, I have only a few minutes left to inhale the food. I fail to finish. Not wanting to hurt my hosts’ feelings by having some dishes untouched, put some of the fruits in a bag as a snack. I rush upstairs to get my things and out the door to catch the train. Missing this one means losing an hour’s worth of walking time (and my precious sleep earlier!).
+
+Unlike my mornings on Shikoku, the air is refreshingly cool.
+
+The station is only a few minutes away, and I end up having a few minutes to spare on the platform. I watch the navy sky melt into warmer colours above the flat-topped houses. Other people in shirts and dark suits were fanning out across the platform in a sleepy daze. This quiet urban scene is such a contrast to the rural towns and highways I woke up to, drenched in sweat, two months ago.
+
+The local train arrives and weaves its way into the hillsides of the next prefecture, Wakayama, where Koya-san is located. I try to nap to make up for my tossing and turning last night. Despite the poor sleep, I need to make the most of daylight, which means setting off at dawn. I’m taken aback by how this was taken for granted, given that city life and city lights means liberation from the limitations of daylight. Could Shikoku really have been two months ago? And was the entire experience really only 40 days? How could something so distant, so specific, be so easy to pick up again? How had those days worked so deeply into my bones, muscles, and entire thought process?
+
+When I get off at Kudoyama Station, I fall into another habit I used to have: taking my time to do things like snack and use the toilet before beginning my walk. It’s about a 30-40 minute walk from the train station to Jison-in where the trail begins. The station has a map of the town and I follow the main roads which have morning traffic and many Buddhist temples sprinkled all around.
+
+There are no other henro (pilgrims). Even though I’m accustomed to walking alone in Shikoku, I’d always imagined that Koya-san would be busy as a destination for henro, monks, Buddhists, hikers, and even tourists.
+
+At Jison-in, I take my time looking at the grounds, which includes both an old main gate, and a modern side entrance and fountain area. In between, are the small main halls. I had expected something a bit more lavish,  and this is a charmingly modest place for a temple that once housed Kukai’s mother. The most noticeable items are the streams of what could be mistaken for _manju_, steamed buns, in the Main Hall. They are breasts, and women often pray here for safe delivery and childbirth.
+
+The [Koyasan Choshimichi](https://en.wikipedia.org/wiki/K%C5%8Dyasan_ch%C5%8Dishi-michi) begins from here, up the steep flight of stairs past the Shinto temple. The little henro stickers appear again to guide the way down a small path on the side and through the bamboo groves. Soon, I reach one of the first stone pillars that mark the distances in the route. Of the original 220 stone markers representing every 109 metres, 180 remain. They will be my guides throughout this 22 km trek.
+
+The route passes persimmon orchards on the hills and steadily climbs upwards without much shade from the sun, but plenty of temptingly ripe orange fruit in the Fall. At the top of the orchard hill, there are baskets of persimmons asking a mere 100 Yen for 4. If I had the appetite, I’d have paid and eaten them on the spot, but this morning’s formidable breakfast is still sitting firmly in my stomach.
+
+This is the last point for me to look back down at the sea, the hills, and the cityscape paved over all the flat patches in between. From here, I will follow the path into the forests. Koya-san safely secluded several ridges away from urbanity.
+
+For the most part, I focus on keeping my pace. The well-kept dirt path is easy on the feet, and I don’t feel the need to stop much.
+
+The trees haven’t begun to change colour yet, but there are fewer mosquito in the cooler mountain air. It’s little things like this that I notice. Like Shosan-ji, this route is much more comfortable than I’d anticipated. I’d approached it by considering what I could encounter, such as mud, overgrown paths, and mosquitos. I now understand why henro walk in Fall and Spring – it’s actually pleasant.
+
+My pace is slower than two months ago, when I was well practiced from daily walking. I notice the wide path, the small statues and offerings. I should have time today, so I make a point of observing the tall canopies, the young trees in contrast to the old ones, and the way the sun beams trickle in.
+
+Koya-san is behind several ridges, and therefore compares to the more difficult temples, Shosan-ji (#12), Unpenji (#66), and Okubo-ji (#88), but the ascent is gradual and without as many sharp turns. It feels like a long, long walk in the quiet woods.
+
+I pause at a pair of stone markers, an old weathered one several feet above the new one beside the path. This path, though old, is also new. Paths stay naturally clear with heavy traffic. Modern pilgrims and day-hikers keep the weeds from growing. Due to the route’s popularity, it is certainly maintained at least a few times a year by an organisation or two. In contrast, I wonder how clear the path for the older, worn-down, marker is. Still earlier, the markers were made of wood and were regularly washed away. What Kukai and his fellow monks for centuries did was no less than bushwhacking year after year, with a single paper lantern and straw sandals that would probably need replacement once they got down the mountain.
+
+What was it like then, really, to be walking through these woods? Even in our contemporary era, with smartphones, data plans, and Google Maps, we experience the human feeling of anxiety at the unknown and, increasingly, fear of nature that we’re out of touch with. The people that came before us, without stone markers – how did they approach this route? How did they read these trees? How did they gain confidence and reassure themselves? What concrete knowledge did they have that we have now lost in our excess of abstract knowledge and poverty of experiences?
+
+Around lunch time, I descend onto the only roadside restaurant and dig into my packed snacks, the single apple and onigiri. Eating is important for both sustenance and offloading weight. Nothing more, nothing less. Gratitude makes everything tastes good. The bare henro life also renders taste irrelevant. This indifference sounds like a loss in a day and age where food options are abundant to the fortunate. In fact, I have found this detachment from taste liberating.
+
+Another cycling henro stops outside the restaurant, a small log outpost building. An avid cyclist myself, I ask him where he came from and how long he took to get here. He’d taken the ferry to Wakayama and had been riding for a few hours. He remarks that he’s taking it easy, since he’s walked the route I’m taking now.
+
+I feel a special connection with this man already. As a fellow pilgrim, he has shared the same path, no matter what his motivations. The cycling henro invites me to join him for a refreshment and treats me to an o-settai tea and sweet. I gratefully accept. I enjoy these momentary connections with fellows from my community, reminding me that there is a larger river that we are all a part of. I also know I really need food even though I don’t have much of an appetite.
+
+After we finish, I take my leave and he sits on a bench chatting to another walking henro that I’d seen on the way up.
+
+It’s the last part, the last bit, I keep telling myself. I’m almost there. That knowledge pushes me onwards, above the echoing conversations of socialising henro. This section winds its way through ravines along the streams and I make sure to keep at least one bend ahead of the the three chatty uncles. Their voices bellow through the silence, reflecting lack of consideration and desecrates the stillness in the trees. I’m also mindful that I have not yet achieved the serenity to withhold judgement, to remain aloof from disagreeable things.
+
+The last part is a steady zig zag up a steep slope. I continue my march. I should be there soon. I can hear the cars above me.
+
+I take a final right, following another henro who has disappeared up a ledge.
+
+There it is, the massive red entrance gate.
+
+The cars continue to whiz by, barely slowing down at the structure. I join a monk while we wait for the pedestrian signal to change. We exchange smiles and nods. I lean on my staff and continue to stare. I’m a lay-henro, and the physical demands of walking have pared down my sense of propriety down to bare necessity. I feel no shame in expressing my fatigue, or wiping the dripping sweat from my forehead with my forearm. Thank goodness I’m here because my feet are starting to ache.
+
+It’s just past 2pm, so I’m happy with my time. It lulls me into complacency as I buy myself a _manju_ snack at the first shop I see. I don’t know if there will be shops ahead, what time they open and close, or what they will serve. I didn’t do any research on Koya-san and so I only know that it is the largest Buddhist temple collection in Japan and a UNESCO World Heritage Site. I walk down the carefully preserved historical main street with restaurants and souvenir shops.  There are some discrete tofu shops and grocery stores, pedalling the famous dry-frozen Koya-san tofu. I pick up some for foodie friends as souvenirs.
+
+I meander through some of the main temples. The complexes have large main halls and multiple buildings that have fresh lacquer and many golden statues. They are impressive. The structures are impassive to the crowds churning between them, squeezing inside, and being excreted back out the cavernous halls again a few minutes later. It is the monks that anxiously watch their stations and direct the tourists. I take it all in. I am no longer dismayed as I once was at Nara’s Todai-ji, Tokyo’s Senso-ji, Matsuyama’s Ishite-ji, and Kagawa’s Zentsu0-ji. I cannot begrudge visitors for their curiosity, ignorance, purposeful prayers, or anything else. The frenetic activity from temple to temple has a suspended feeling of virtual reality, as though the town is holding its breath, waiting for sunset when the temples close and the crowds depart.
+
+I continue meandering around, curiously watching. Having walked all the way here, I just want to see what the place is like. Shikoku taught me that walking to a place always makes a place worthwhile, exactly for what it is, nothing more or less. Disappointment is something we carry on ourselves.
+
+For my part, one moment in particular catches my eye. The maples leading up to an avenue of cedars are turning red. This is Koya-san, during Koyo (the season of red leaves).
+
+Finally, I stop at a Family Mart and chat with my mom on Whatsapp. I feel like I have time to take a break, take off my shoes and let my feet breathe a bit. But before I know it, I’m rushing off again. I realise that Kobo Daishi’s mausoleum will probably close soon at 5pm, and it is deep inside a cemetery almost three kilometres away.
+
+I end up speed walking the rest of the way through the town. At the entrance to the mausoleum is a small bridge, where pilgrims should cleanse themselves, and bow before entering. There is a one-kilometre hall of regal cedar forest covered in lavish, moss-covered graves nestled between the ancient roots. These are the dignitaries that have striven to be as close to Kobo Daishi as possible.
+
+The air here is thick – perhaps with meaning, purpose, the dead, their souls, or just the moist evening chill. The high canopy makes for a dark, reclusive feeling. It is a place to sit for a day and work towards a layperson’s epiphany induced by a high on the fresh mountain air filtering out 700-year old evergreens. Already, the lanterns on along the main route are beginning to light up.
+
+I regret not coming earlier. As usual, I am nearly running through the stone path, focused only on the next few feet in front of me, alert so as not to roll on my ankle. I am shaving precious minutes.
+
+Finally, I arrive. At the end of the cemetery, is Kobo Daishi’s hall, where he is in eternal meditation. The dimly lit, gold-leafed interior feels warm and empty at the same time. It has lavish red carpets, a deep altar, visible more in its size than its contents. The hall is so wide, it fits three large boxes for visitors to toss their coins. The atmosphere is solemn and reverent. Yet, it feels as though Kobo Daishi, the man, were no longer here. The centre feels empty. At the same time, it feels large, full, suspended in breath.
+
+I bow and drop my osamefuda (nameslip) and coins into the box.
+
+Oftentimes, we are misguided to believe that doing something will bring us peace. We  grow obsessed with accomplishing something, mistaking our fervent behaviour as genuine progress towards something better. We load expectation into the result. We are often wrong. Yet, sometimes, we are wrong the other way. Sometimes, we underestimate how much an act would mean. This is one of those experiences for me.
+
+This was the closure I needed, the closing of the loop. It didn’t matter that the town outside is packed with tourists, that an [_aruki-henro_](http://aruki-henro) (walking pilgrim) is a rare creature in the commerce of cultural tourism. In this moment, at this closing of the day, the Golden Hour, I feel it was worth it. It was right to come here.
+
+I stand back on the stone steps leading back down the way I came. I feel like I’ve crossed a threshold, and left behind a part of myself from only minutes ago. It feels like this space is suspended in time, where the living trees are holding their breath. This stillness evokes the torrent of time gushing as images of congested streets and crowded train stations in distant cities. Time doesn’t exist here for the moss that slowly encases the oldest tomb mounds in the far corner, at least not in the same way as it does for us urbanites.
+
+I can see the real world beyond, at the bridge about two hundred metres away. At that spot, there is the temple shop beyond selling charms and a collection of bodhisattva statues. For some reason, the tourists seem more interested in the statues. Perhaps it is also because, on that side, people can still speak and tour guides answer questions with shrill eagerness. On the mausoleum side, silence is observed.
+
+I walk slowly back out and stand on the bridge. Once I cross, I will leave this suspended realm behind. I will step back into the mortal realm, into night, into humanity. I will become a fish again. This moment feels both significant and ordinary, made complete by the two paradoxical halves.
+
+But for now, in this instant, I feel at peace, as though some part of me has joined this eternal, deep slumber.
+
+I wander back out via a shortcut and take the bus that winds down to the tram. I purchase my one-way ticket, which then gets us to the trains. It’s a busy train. There’s nowhere for me to sit, so I stand for the full 45-minutes back into Osaka, staring out at the darkness of rural Japan. My feet are aching, but the pain means little now that I am done.
+
+Once in Osaka, I treat myself to _okonomiyaki_ (a pancake with various toppings) at a random place I find that’s well reviewed close by. I don’t feel the need to celebrate because it somehow feels like just another day, but I force myself to do something a bit different. I should do something that I remember Osaka as more than just a transit point. Then, I roam around, waiting for the overnight bus to take me back to Tokyo.
+
+I feel tired, moreso mentally than physically. _I climbed Mount Koya on Oct. 15._ I should remember that. I won’t remember the date so well. But I will remember the trees – the cedars under which the lords and the powerful carve out a space. I replay the day, which again feels distant already now that I am in the thick of Osaka’s neon signs, billboards, and dinner crowds.
+
+The loose ends are finally tied. Yet, I can’t put Shikoku away quite yet. I know that there are a lot of things I have not quite worked out – many mysterious experiences. What is the impact of Shikoku and Koya-san? What have I become?
+
+I ponder this from the overnight bus to Tokyo right through until am at Haneda airport for another overnight wait (for a 5am flight).
+
+It’s over. No ceremonious beginning, no end, no celebration. Not even relief. But, it is the end – an end. I can move on. I _will_ move on. A fish back in the sea of life needs to keep swimming.
+
+Yet, I already know I will return. I don’t know why. Perhaps I will find out when I begin again.

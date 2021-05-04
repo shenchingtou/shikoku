@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b5c9268908fc1f92",
+        "id": "7667077cadabe016",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/Ignore - Test.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Ignore - Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,5 +85,9 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/Ignore - Test.md",
+    "content/about 1.md",
+    "content/about.md"
+  ]
 }
