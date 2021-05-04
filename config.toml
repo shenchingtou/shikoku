@@ -42,7 +42,12 @@ enableGitInfo = true
   name = "Afterword"
   url = "/afterword"
   weight = 10
-  
+
+[[menu.before]]
+  name = "Afterword"
+  url = "/mt-koya"
+  weight = 15
+
 [[menu.after]]
   name = "Personal Blog"
   url = "https://shenchingtou.github.io/blog/"
