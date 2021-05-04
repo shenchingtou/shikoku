@@ -414,3 +414,78 @@ Price: ¥1950 Adults, ¥980 Children
 I went in the summer and the ropeway opens at 9:00am. This means that if you take the 7:47am bus, you will probably have a little bit of extra time.
 
 ![Ishizuchi Tōzan Ropeway Times](https://shenchingtou.github.io/shikoku/docs/Ishizuchi-ropeway-times.png)
+
+### Mount Ishizuchi Climbing Route
+
+Mount Ishizuchi is famous for three sets of iron chains that climbers traditionally used to get to the peak. These days, a walking route is also available. I would recommend printing the English map for climbing Mount Ishizuchi as I found the information and route estimations quite accurate and helpful. [**Download the PDF here.**](http://www.ishizuchi.com/web/wp-content/uploads/2014/10/102a1bab9c7e6d293bd4432da75530ff.pdf)
+
+The most popular route, from the Ishizuchi Ropeway (cable car) is also the shortest. The recommended time for the route is 3 hours up, and 3 hours down, which probably factors in plenty of time to enjoy the scenery. I did the route in 2:26 going up (moving time 1:53) and 1:29 going down.
+
+### Lodgings
+
+Note that most places on Shikoku only speak Japanese, and a phone reservation prior is recommended. If you walk in, you will want to ask if there is room that day by noon, although the room may not be prepared until after 3pm. Most places come with a dinner prepared, and maybe a breakfast as well. The prices differ based on how many meals you want.
+
+Below is a list of lodgings at Mount Ishizuchi. There is one lodge at the peak, and a cluster of places to stay at the top of the ropeway.
+
+**Shimotani (Base of the Ropeway)**
+
+Onsen Ryokan Kyoya (京屋旅館) ☎ 0897-59-0335
+106 Nishinokawako, Saijo, Ehime Prefecture 793-0215, Japan
+
+To be honest, from the outside, it doens’t look the greatest. Assuming the price is around the same as the ryokans at the top of the ropeway, I would suggest staying in one of those instead. Of course, if you want an onsen, then this is the one to stay at after a long day.
+
+**In Ishizuchi Komatsucho**
+
+*30 mins walk after the top of the Ishizuchi Ropeway, where the Ishizuchi Chugu Jojusha Shrine and entrance to the Ishizuchi trail is。
+
+Hinodeya Ryokan (日の出山旅館) ☎ 0897-59-0143
+
+Tamaya Ryokan (玉屋旅館) ☎ 0897-59-0415
+
+Shiraishi Ryokan (白石旅館) ☎ 0897-59-0032
+
+The three ryokan are the only buildings on the mountain that you will definitely pass when walking from the ropeway station to the Mount Ishizuchi trail. Together with the Joju Shrine.
+
+**At Mount Ishizuchi Peak**
+
+Chōjō-sansō (頂上山荘), ☎ 0897-55-4168, The name actually means summit lodge description of this mountain hut run by the temple. It’s open from early May to early November. The lodging is pretty basic, but still costs ¥8500 with two meals, so budget yourself before deciding to just show up!
+
+### Useful Vocabulary (especially for map reading)
+
+Note that all vowels are pronounced in consistently in Japanese. This means:
+
+- a = short a (as in ‘bat, at’)
+- i = ee (as in ‘tree’)
+- u = oo (as in ‘too’)
+- e = short e (as in ‘get’)
+- o = long o (as in ‘role, sole, coal’)
+- ai = long i (as in ‘I‘)
+- ei = long a (as in ‘Say’)
+- yu = long u (as in ‘shoe’)
+- oe = long o + short e (oh + eh?), two sounds
+
+**Map:**
+
+-   Peak – (Sanchō) 山頂
+-   Information – _annai_ (案内)
+-   Bus – _basu_ (バス)
+-   Bus stop – _basu tei_ (バス停)
+-   Station – _eki_ (駅)
+-   Toilet _– toire (_トイレ) or _tearai_ (手洗い )
+
+**Places**
+
+-   Iyo-Saijo JR Station – _Iyo Saijo Eki_ (伊予西条駅)
+-   Ishizuchi Cable Car – _Ishizuchi ropuwei mae (_石鎚ロープウェイ前)
+-   Mount Tengu Peak – _Tengudake_ 天狗岳
+
+**Accommodation / Bookings**
+
+-   Inns – _ryokan_ (旅館), _Minshuku (_民宿) , _Shukubo (_宿坊)
+-   Reservation – _yoyaku_ _onegai shimasu_ (予約お願いします)
+-   Stay 1 night – _ippaku_ (一泊)
+-   Stay 2 nights _– nipakku_ (２泊)
+-   One person – _hitoride_ (一人で)
+-   Two / three / four people – _ninin / sannin / yonin_ (2人、3人、4人)
+-   Meals – _shokuji_ (食事)
+-   Stay without meals – _sudomari_ (素泊まり) otherwise usually at least one meal is assumed.
