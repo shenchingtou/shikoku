@@ -8,11 +8,12 @@ _This is a comprehensive guide for people who would like to climb Mount Ishizuch
 
 _This guide also includes hiking route time estimates, some activities or highlights of notes, and lodging options._
 
-_Please note that this guide was migrated from an old blog and still needs some formatting updates. Please be patient (or help if you know how to use markdown). Thanks!_
+_Please note that this guide was migrated from an old blog and still needs some formatting updates. Please be patient (or help if you know how to use markdown). If you're very frustrated, check out the [Web Archive for my post on how I did the day hike](https://web.archive.org/web/20210504143655/https://thecupandtheroad.com/2017/08/03/mount-ishizuchi-hiking-how-to-get-around/). Thanks!_
 
 ## Information Overview of Mount Ishizuchi
 
- ![mount ishizuchi to tengudake](https://i2.wp.com/foundinshikoku.com/wp-content/uploads/2019/03/Mount-Ishizuchi-Web-4039.jpg?resize=797%252C1200&ssl=1)Looking towards the peak of Western Japan, Tengudake, at 1982 metres. 
+This is a mega information dump post. The first section is information on all the possible transit time tables from different locations to Mount Ishizuchi. The second section covers my transit connections and lodging information -- scroll down to "Mount Ishizuchi Ropeway and Lodgings".
+
 
 Mount Ishizuchi is the tallest mountain in Western Japan, with its peak Tengudake sitting at 1982 metres. The mountain is both a cultural landmark as a holy site for Shinto and [Shugendo](https://en.wikipedia.org/wiki/Shugend%C5%8D), as well as a popular hiking route for recreational and overnight hikers. The mountain has a signature sheer peak and is famous for its three sets of gigantic chains that climbers can use to get to the top (optional use). In the Fall, Mount Ishizuchi is famous for *koyo*, autumn foliage, where it attracts many visitors. In the Winter, it has a new years mountain festival, but I would not advise on hiking, as the mountain has snow and is a ski ground. Officially, the mountain hiking route is open between July and October, though you could probably hike it in late Spring and Fall as well.
 
@@ -316,13 +317,13 @@ For the route information from the town please go up to the section titled “**
 
 ##### For Shikoku Pilgrims Walking the Whole Route
 
-If you are a pilgrim who is walking the whole way, then you will probably need to retrace your step after ascending Mount Ishizuchi. The most direct route down the mountain will be to follow the Omotesando Route to the Joju Shrine and cable car station. From there, you can retrace the Imamiya Route out to Koguchi. Koguchi is the name of the bus stop that takes you out to Iyo-Saijo Station, but you will also recognise it when you see the road. If you don’t take the bus, you can continue to follow the Kamo River down the mountain, and back out to Temples \#61 and \#62.
+If you are a pilgrim who is walking the whole way, then you will probably need to retrace your step after ascending Mount Ishizuchi. The most direct route down the mountain will be to follow the Omotesando Route to the Joju Shrine and cable car station. From there, you can retrace the Imamiya Route out to Koguchi. Koguchi is the name of the bus stop that takes you out to Iyo-Saijo Station, but you will also recognise it when you see the road. If you don’t take the bus, you can continue to follow the Kamo River down the mountain, and back out to Temples #61 and #62.
 
-##### For Taking Transit back to Temples \#61 or \#64
+##### For Taking Transit back to Temples #61 or #64
 
-If you are open to taking the bus back out of the mountains to resume your walk, please refer to the section above on **cable car and bus times to JR Iyo-Saijo**. If you walked directly from Yokomine-ji, Temple \#60, you will have to take the train back to Temple \#61 to continue walking.
+If you are open to taking the bus back out of the mountains to resume your walk, please refer to the section above on **cable car and bus times to JR Iyo-Saijo**. If you walked directly from Yokomine-ji, Temple #60, you will have to take the train back to Temple #61 to continue walking.
 
-If you are more flexible with your route, then a better way would be to walk Temples \#61 – \#64 first as they are close together. Then do Yokomine-ji (Temple \#60), and hike up to Mount Ishizuchi from there. As you have already walked to the other temples, you can continue walking immediately towards Temple \#65 after the bus drops you off at JR Iyo-Saijo.
+If you are more flexible with your route, then a better way would be to walk Temples #61 – #64 first as they are close together. Then do Yokomine-ji (Temple #60), and hike up to Mount Ishizuchi from there. As you have already walked to the other temples, you can continue walking immediately towards Temple #65 after the bus drops you off at JR Iyo-Saijo.
 
 ---
 
@@ -332,7 +333,7 @@ If you are more flexible with your route, then a better way would be to walk Tem
 
  ![mountain office at ishizuchi](https://i2.wp.com/foundinshikoku.com/wp-content/uploads/2019/03/Mount-Ishizuchi-Web-4032.jpg?resize=860%252C571&ssl=1)There is a mountain lodge beside this office at the peak. 
 
-You can refer to the [ryokans listed on this map](http://henro88map.com/pdf/ishizuchi.pdf?fbclid=IwAR0xPctDhRKRjW3XpqPk7NGxYj-mjGS_7roK90cIPElx25xz1oIdXNNUk74) and also look for rest huts along the trail. If you would like more detailed information, [please contact me.](mailto:athena@piccoloportfolios.com)
+You can refer to the [ryokans listed on this map](http://henro88map.com/pdf/ishizuchi.pdf?fbclid=IwAR0xPctDhRKRjW3XpqPk7NGxYj-mjGS_7roK90cIPElx25xz1oIdXNNUk74) and also look for rest huts along the trail. 
 
 ---
 
@@ -344,12 +345,72 @@ Japan is a safe place to climb mountains and many routes are cared for by local 
 * 
 
 * **Keep your garbage** and take it down the mountain
-* **Say ‘*konichiwa’ ***as a friendly ‘hello’, which the hiking community frequently does
-* **Say ‘*sumimasen*‘, **which means ‘excuse me’ to pass people, or step in to use something (such as a water fountain)
+* **Say ‘konichiwa’** as a friendly ‘hello’, which the hiking community frequently does
+* **Say ‘sumimasen‘**, which means ‘excuse me’ to pass people, or step in to use something (such as a water fountain)
 * **Keep conversation voices low** as noise travels far
 * **Follow instructions in washrooms** because the waste gets flushed right onto the mountain
 
- [![mount ishizuchi hiking map](quiver-image-url/8743763BCB57418C8D3A1CAEB1280BD1.jpg)](https://thecupandtheroad.files.wordpress.com/2017/08/imag2482.jpg?resize=470%252C263)*A reference for Japanese maps, which are generally rough ideas and not to scale.
-* 
+## Mount Ishizuchi Ropeway and Lodgings
 
- ![Tengudake Mount Ishizuchi Peak](https://i2.wp.com/foundinshikoku.com/wp-content/uploads/2019/03/Mount-Ishizuchi-Web-4049.jpg?resize=797%252C1200&ssl=1)Lunching at Tengudake! 
+*If this section is weirldy formatted, try the version I've saved in the internet web archive [here](https://web.archive.org/web/20210504143655/https://thecupandtheroad.com/2017/08/03/mount-ishizuchi-hiking-how-to-get-around/).
+
+
+
+The route I took was:
+
+The closest major cities to Mount Ishizuchi are Takamatsu (Kagawa Prefecture) and Matsuyama (Ehime Prefecture). Many people who drive across the Shimanami Kaido will also stop at Imabari, which is a small city that’s a few stops from the closest train station.
+
+This guide is only for people taking public transit, which includes trains, a local bus, and a ropeway up the mountain. I’m not familiar with driving routes!
+
+Getting in:
+
+- Use Google Maps to search your train route to Japan Rail (JR) Iyo-Saijō Station. Google maps in Japan is very reliable and has exact train times.
+- Take a bus from outside Iyo-Saijo Station to Ishizuchiyama (JR伊予西条駅 → 石鎚ロープウェイ前). Note: 4 daily buses only.
+- Get off at Ishizuchiyama (石鎚山) stop.
+- Walk up a hill to take the ropeway.
+- Take the Ishizuchi Tōzan Ropeway (石鎚登山ロープウェイ) up the mountain. (¥1000 adult one-way, ¥1950 round trip)
+
+Getting out:
+
+- Take the Ishizuchi Tōzan Ropeway (石鎚登山ロープウェイ) back down the mountain.
+- Take the bus back to Iyo Saijo Station.
+- Take the train from Iyo-Saijo Station back to where you are staying.
+
+
+### Trains
+
+You must note the exact trains that match the 4 scheduled bus times.
+
+For example, to meet the 10:27 morning bus from Iyo-Saijo Station you would have to take:
+
+- From Takamatsu: Ishizuchi #7, departing at 8:44
+- From Okayama: Shiokaze #3, departing 8:30
+- From Matsuyama: Shiokaze #12 departing at 9:12
+
+I took an early train from Imabari to catch the 7:47 bus from Iyo-Saijo.
+
+You can look up the train prices on Hyperdia, but if you have a JR Pass or All-Shikoku Pass it doesn’t matter.
+
+### Buses
+
+Buses in Japan are pretty punctual. Surprisingly, mine at 7:47 was not that day. The tip is, definitely be on time because buses will leave on time, but don’t panic if it’s not on the dot! The bus stop has several different bus routes, so make sure you look at the bus sign before getting on. Don’t just get on any bus that arrives at 7:47. The bus you’re looking for has the route name blow
+
+The route for the bus is: JR伊予西条駅 → 石鎚ロープウェイ前
+
+The return route for the bus is:  石鎚ロープウェイ前 → JR伊予西条駅
+
+![JR Iyo Saijo Station to Ishizuchi Ropeway Bus Timetable](https://shenchingtou.github.io/shikoku/docs/Iyo-Saijo%20Station-Ishizuchi-Ropeway-timetable-2017.png)
+
+![Ishizuchi Ropeway to JR Iyo Saijo Station Bus Timetable](https://shenchingtou.github.io/shikoku/docs/Ishizuchi-Ropeway-Iyo-Saijo%20Station-2017.png)
+
+### Ishizuchi Tōzan Ropeway Times
+
+Translation of the [Japanese Ropeway Timetable](http://www.ishizuchi.com/rw).
+
+Departures are every 20 minutes, so at 0:00, 0:20, and 0:40.
+
+Price: ¥1950 Adults, ¥980 Children
+
+I went in the summer and the ropeway opens at 9:00am. This means that if you take the 7:47am bus, you will probably have a little bit of extra time.
+
+![Ishizuchi Tōzan Ropeway Times](https://shenchingtou.github.io/shikoku/docs/Ishizuchi-ropeway-times.png)
